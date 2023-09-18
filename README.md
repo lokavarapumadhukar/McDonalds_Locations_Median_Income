@@ -1,0 +1,1 @@
+# McDonalds_Locations_Median_Income
